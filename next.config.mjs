@@ -38,11 +38,11 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 's3.amazonaws.com',
-        pathname: '/redqteam.com/isomorphic-furyroad/public/**',
+        pathname: '/redqteam.com/plore-console-furyroad/public/**',
       },
       {
         protocol: 'https',
-        hostname: 'isomorphic-furyroad.s3.amazonaws.com',
+        hostname: 'plore-console-furyroad.s3.amazonaws.com',
       },
     ],
   },
